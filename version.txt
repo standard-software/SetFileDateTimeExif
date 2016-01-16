@@ -1,0 +1,5 @@
+◇ver 1.0.0     2016/01/16
+・  作成
+・  SetFileDateTimeからSetFileDateTimeExifを分離独立
+・  動作後に動作対象チェックを解除するようにした
+
